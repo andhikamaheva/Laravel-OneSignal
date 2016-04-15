@@ -1,0 +1,21 @@
+{
+    "name": "andhikaid/onesignal",
+    "description": "Sending webpush notification from laravel to client browser",
+    "keywords": ["laravel","onesignal","webpush","notification","push otification","subscriber notification"],
+    "homepage": "https://github.com/andhikamaheva/Laravel-OneSignal.",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Andhikaid\\OneSignal\\": "packages/andhikaid/onesignal/src/OneSignal/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andhika Maheva Wicaksono",
+            "email": "me@andhika.id"
+        }
+    ],
+    "minimum-stability": "dev"
+}
